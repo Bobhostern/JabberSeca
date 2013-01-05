@@ -1,0 +1,3 @@
+The "lib" folder of LinuxSeca is the "libx" folder of this project.
+This is to prevent conflicts with the "lib" folder of this project, which
+is where it stores the libraries it uses.
