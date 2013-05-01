@@ -1,0 +1,8 @@
+Amarene-GUI -- Amarene with a GUI
+<><><><><><><><><><><>
+This is simply Amarene with a QT GUI.
+You must build it yourself right now, but I'll add binaries later.
+Just type "make" in the directory you downloaded these files into, and boom,
+you have a binary for Amarene-GUI.
+
+~~Bob Hostern
